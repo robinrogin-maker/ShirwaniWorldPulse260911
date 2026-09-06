@@ -15,7 +15,7 @@ const SITE = {
   social: {
     // روابط حسابات المالك؛ أي رابط يُترك فارغاً يُخفي زرّه تماماً.
     instagram: "https://www.instagram.com/shirwaniadel/?hl=en",
-    tiktok:    "https://www.tiktok.com/@adelshirwani4",
+    tiktok:    "https://www.tiktok.com/@shirwaniworldpulse",
     x:         "https://x.com/ShirwaniAdel"
   }
 };
